@@ -13,6 +13,8 @@
 
 .titulo-centralizado {
   text-align: center;
+  font-weight: bold;
+  font-size: 25px;
 }
 
 p {
@@ -46,4 +48,15 @@ ul {
 
 #beneficios {
   width: 50%;
+}
+
+footer {
+  background: url(bg.jpg);
+  text-align: center;
+  padding: 40px 0;
+}
+
+.copyright {
+  color: white;
+  font-size: 16px;
 }
